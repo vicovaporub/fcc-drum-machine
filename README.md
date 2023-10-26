@@ -13,4 +13,4 @@
 - When a key associated with each `.drum-pad` is pressed, the audio clip contained in its child `audio` element should be triggered
 - When a `.drum-pad` is triggered, a string describing the associated audio clip is displayed as the inner text of the `#display` element (each string must be unique)
 
-## freeCodeCamp provided a link for audio clips to be used in the project
+## freeCodeCamp provided links for the audio clips that were used in the project
