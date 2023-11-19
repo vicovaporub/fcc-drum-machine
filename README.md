@@ -2,6 +2,8 @@
 
 ## Using React, this project is a Drum Machine required for the [freeCodeCamp](https://www.freecodecamp.org)'s Front End Development Libraries certification.
 
+## You can see this app running at this [CodePen Link](https://codepen.io/mowchicy-the-decoder/details/WNYVrrZ)
+
 ## The app is a simple 9 button Drum Machine, each button has a different sound bound to it and you can play it by clicking or pressing the keyboard key. There's also a display that shows a description for the played audio.
 
 **The tasks were:**
